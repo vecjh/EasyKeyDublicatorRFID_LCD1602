@@ -1,4 +1,4 @@
-# Данный скетч - это форк [AlexMalov/EasyKeyDublicatorRFID_OLED](https://github.com/AlexMalov/EasyKeyDublicatorRFID_OLED) со следующими изменениями:
+Данный скетч - это форк [AlexMalov/EasyKeyDublicatorRFID_OLED](https://github.com/AlexMalov/EasyKeyDublicatorRFID_OLED) со следующими изменениями:
 * библиотека GyverEncoder обновлена до [EncButton](https://github.com/GyverLibs/EncButton)
 * OLED I2C заменен на LCD1602 I2C
 * добавлена индикация режима на экране
